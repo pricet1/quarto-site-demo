@@ -1,0 +1,13 @@
+---
+title: "Quarto Site Demo"
+---
+
+This is a Quarto website.
+
+It gets built automatically via a GitHub Action on push.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

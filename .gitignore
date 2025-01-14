@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore renv library, cache & staging directory
+renv/library/
+renv/cache/
+renv/staging/
+# Ignore Python virtual environments in renv (if applicable)
+# renv/python/
